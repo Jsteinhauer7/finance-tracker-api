@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+werkzeug
+psycopg2-binary
+gunicorn
