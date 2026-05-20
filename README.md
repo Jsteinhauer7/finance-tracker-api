@@ -2,6 +2,9 @@
 
 A REST API for tracking personal income and expenses, built with FastAPI. Powers the Finance Tracker React frontend.
 
+**Live API:** https://finance-tracker-api-qsu8.onrender.com  
+**Frontend:** https://finance-tracker-sigma-three.vercel.app/
+
 ## Endpoints
 
 ### Transactions
